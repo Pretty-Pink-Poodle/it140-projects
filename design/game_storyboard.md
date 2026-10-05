@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Y2K Mall After Dark is a text-based adventure game set in Starlight Mall in 2003. The game has a nostalgic Y2K theme centered around exploring a shopping mall after closing.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player returns to Starlight Mall shortly before closing to retrieve a bag they accidentally left behind. Before they can leave, the security gates close and the mall goes into lockdown. To escape, the player must explore the mall and collect six items: Lip Gloss, a Burned CD, an Arcade Token, a Photo Strip, an Employee Keycard, and a Flip Phone. The player must collect all six items before entering the Security Office, where the villain, the Night Manager, is located. If the player encounters the Night Manager before collecting every item, the game is over.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Food Court - Start room
+2. Replay Records
+3. Glow Beauty
+4. Pixel Palace Arcade
+5. Flashback Photo Booth
+6. Starstruck Department Store
+7. Electronics Store
+8. Security Office - Villain room
 
 Add more rooms if your design needs them.
 
@@ -34,19 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Burned CD - Replay Records
+2. Lip Gloss - Glow Beauty
+3. Arcade Token - Pixel Palace Arcade
+4. Photo Strip - Flashback Photo Booth
+5. Employee Keycard - Starstruck Department Store
+6. Flip Phone - Electronics Store
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Night Manager is the villain of Y2K Mall After Dark and is located in the Security Office. The player must avoid encountering the Night Manager until all six required items have been collected. If the player enters the Security Office before collecting every item, the game is over.
 
 ## Storyboard and Map Check
 
